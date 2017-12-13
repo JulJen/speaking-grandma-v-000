@@ -3,7 +3,7 @@
 
 
 def speak_to_grandma
-  if "I love you grandma!".upcase
+  if I love you grandma!.upcase
     puts "I LOVE YOU TOO PUMPKIN!"
   # elsif 'Hi Nana, how are you?' || 'Hi!'
   #   puts 'HUH?! SPEAK UP, SONNY!'
