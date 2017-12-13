@@ -2,9 +2,9 @@
 
 
 
-def speak_to_grandma
-  if "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+def speak_to_grandma(phrase)
+  if phrase != phrase.upcase()
+    puts 'HUH?! SPEAK UP, SONNY!'
   # elsif 'Hi Nana, how are you?' || 'Hi!'
   #   puts 'HUH?! SPEAK UP, SONNY!'
   elsif 'WHAT DID YOU EAT TODAY' || 'WHAT?'
